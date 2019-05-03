@@ -91,16 +91,16 @@ Invalid client request, use commands -server_processtop10 or -server_infomem
 server buffer size received = 77
 -server_processtop10 message sent
   PID USUARIO   PR  NI    VIRT    RES  %CPU  %MEM    TEMPO+ S COMANDO
- 3110 iuri       8   0    5,6m   4,8m  22,4   0,1   0:00.07 R top
- 2921 iuri       8   0    4,8m   4,2m   0,0   0,1   0:00.09 S server_infomemd
- 3103 iuri       8   0    4,6m   3,9m   0,0   0,0   0:00.01 S client
- 1057 iuri       8   0    6,4m   8,4m   0,0   0,1   0:00.04 S bash
- 2925 iuri       8   0    4,8m   4,2m   0,0   0,1   0:00.01 S server_processtop10d
-  994 iuri       8   0    7,3m  12,9m   0,0   0,2   0:02.32 S mintty
- 3109 iuri       8   0    5,0m   5,7m   0,0   0,1   0:00.04 S sh
- 1111 iuri       8   0    6,4m   8,1m   0,0   0,1   0:00.04 S bash
- 1056 iuri       8   0    8,0m  13,3m   0,0   0,2   0:10.48 S mintty
-  995 iuri       8   0    6,6m   8,8m   0,0   0,1   0:00.18 S bash
+ 3110 ir         8   0    5,6m   4,8m  22,4   0,1   0:00.07 R top
+ 2921 ir         8   0    4,8m   4,2m   0,0   0,1   0:00.09 S server_infomemd
+ 3103 ir         8   0    4,6m   3,9m   0,0   0,0   0:00.01 S client
+ 1057 ir         8   0    6,4m   8,4m   0,0   0,1   0:00.04 S bash
+ 2925 ir         8   0    4,8m   4,2m   0,0   0,1   0:00.01 S server_processtop10d
+  994 ir         8   0    7,3m  12,9m   0,0   0,2   0:02.32 S mintty
+ 3109 ir         8   0    5,0m   5,7m   0,0   0,1   0:00.04 S sh
+ 1111 ir         8   0    6,4m   8,1m   0,0   0,1   0:00.04 S bash
+ 1056 ir         8   0    8,0m  13,3m   0,0   0,2   0:10.48 S mintty
+  995 ir         8   0    6,6m   8,8m   0,0   0,1   0:00.18 S bash
 server buffer size received = 770
 -server_infomem message sent
               total       usada       livre    compart.  buff/cache  disponível
@@ -126,16 +126,16 @@ Escape character is '^]'.
 Server OK and listening
 -server_processtop10
   PID USUARIO   PR  NI    VIRT    RES  %CPU  %MEM    TEMPO+ S COMANDO
- 9133 iuri       8   0    5,6m   4,8m  22,4   0,1   0:00.10 R top
- 9119 iuri       8   0    4,8m   4,2m   0,0   0,1   0:00.00 S server_processtop10d
- 9115 iuri       8   0    4,8m   4,2m   0,0   0,1   0:00.01 S server_infomemd
- 1057 iuri       8   0    6,4m   8,4m   0,0   0,1   0:00.06 S bash
- 9124 iuri       8   0    4,6m   4,7m   0,0   0,1   0:00.01 S telnet
-  994 iuri       8   0    7,3m  13,0m   0,0   0,2   0:02.90 S mintty
- 9111 iuri       8   0    4,8m   4,4m   0,0   0,1   0:00.01 S server
- 1111 iuri       8   0    6,4m   8,1m   0,0   0,1   0:00.04 S bash
- 1056 iuri       8   0    8,1m  13,4m   0,0   0,2   0:11.39 S mintty
-  995 iuri       8   0    6,6m   8,8m   0,0   0,1   0:00.18 S bash
+ 9133 ir         8   0    5,6m   4,8m  22,4   0,1   0:00.10 R top
+ 9119 ir         8   0    4,8m   4,2m   0,0   0,1   0:00.00 S server_processtop10d
+ 9115 ir         8   0    4,8m   4,2m   0,0   0,1   0:00.01 S server_infomemd
+ 1057 ir         8   0    6,4m   8,4m   0,0   0,1   0:00.06 S bash
+ 9124 ir         8   0    4,6m   4,7m   0,0   0,1   0:00.01 S telnet
+  994 ir         8   0    7,3m  13,0m   0,0   0,2   0:02.90 S mintty
+ 9111 ir         8   0    4,8m   4,4m   0,0   0,1   0:00.01 S server
+ 1111 ir         8   0    6,4m   8,1m   0,0   0,1   0:00.04 S bash
+ 1056 ir         8   0    8,1m  13,4m   0,0   0,2   0:11.39 S mintty
+  995 ir         8   0    6,6m   8,8m   0,0   0,1   0:00.18 S bash
 -server_infomem
               total       usada       livre    compart.  buff/cache  disponível
 Mem.:          8095        3246        4849           0           0        4849
